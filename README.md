@@ -1,5 +1,5 @@
 
-Title: Developing a CNN-DenseNet-Based Deep Learning Approach for Kannada Handwritten Character Recognition System
+# Developing a CNN-DenseNet-Based Deep Learning Approach for Kannada Handwritten Character Recognition System
 
 Authors and Affiliations:
 
